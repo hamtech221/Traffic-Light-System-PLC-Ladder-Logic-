@@ -72,6 +72,3 @@ Timers are used to control the delay between each state, ensuring smooth and rea
 
 ---
 
-## 📧 Contact
-
-If you have any questions or suggestions, feel free to connect with me on LinkedIn.
