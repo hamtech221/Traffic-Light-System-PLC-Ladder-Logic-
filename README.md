@@ -51,7 +51,7 @@ Timers are used to control the delay between each state, ensuring smooth and rea
 
 ## 🎥 Demonstration
 
-[▶ Watch Demo](https://github.com/hamtech221/Traffic-Light-System-PLC-Ladder-Logic-/blob/main/video/traffic_light.mp4)
+[▶ Watch Demo](https://github.com/user-attachments/assets/eb6d274e-520d-413c-8fa5-d4311e1fcf14)
 
 ---
 
