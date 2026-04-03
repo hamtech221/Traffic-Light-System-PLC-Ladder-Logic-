@@ -26,6 +26,13 @@ Timers are used to control the delay between each state, ensuring smooth and rea
 
 ---
 
+## 🔌 Hardware Abstraction
+
+Push buttons and LEDs are used to simulate real-world traffic signals.
+The LED represents the traffic light states (Red and Green), cycling continuously.
+
+
+---
 ## 🔌 Inputs & Outputs
 
 ### Inputs
