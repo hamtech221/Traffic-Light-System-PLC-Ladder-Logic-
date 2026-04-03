@@ -62,6 +62,11 @@ Timers are used to control the delay between each state, ensuring smooth and rea
 * Demo Video
 
 ---
+## 📁 Project Files
+
+- `TRAFFIC_LIGHT.mwp` → Complete Siemens PLC project (open in STEP 7 / MicroWIN)
+- `TRAFFIC.awl` → Instruction List (AWL/STL) representation of the control logic
+---
 
 ## 🚀 Future Improvements
 
